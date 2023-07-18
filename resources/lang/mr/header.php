@@ -1,0 +1,28 @@
+<?php
+ 
+return [
+    'title' => 'एफडीए | अन्न आणि औषध प्रशासन',
+    'home' => 'मुख्यपृष्ठ',
+    'about' => 'प्रस्तावना',
+    'vision' => 'दृष्टी',
+    'duties' => 'कर्तव्ये',
+    'laws' => 'कायदे',
+    'authorities' => 'अधिकारी',
+    'foodDept' => 'अन्न विभाग',
+    'services' => 'सेवा',
+    'complaintRegistration' => 'तक्रार नोंदणी',
+    'publications' => 'प्रकाशने',
+    'drugDept' => 'औषध विभाग',
+    'labDept' => 'प्रयोगशाळा विभाग',
+    'intro' => 'परिचय',
+    'history' => 'इतिहास',
+    'objectives' => 'उद्दिष्टे',
+    'structure' => 'रचना',
+    'vigilanceDept' => 'दक्षता विभाग',
+    'compostition' => 'रचना',
+    'contacts' => 'संपर्क',
+    'rti' => 'माहितीचा अधिकार',
+    'seniorityList' => 'ज्येष्ठता यादी',
+    'contact' => 'संपर्क',
+    'toggleLang' => 'English',
+];

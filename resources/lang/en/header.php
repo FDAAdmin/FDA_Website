@@ -1,0 +1,28 @@
+<?php
+ 
+return [
+    'title' => 'FDA | Food and Drug Administration',
+    'home' => 'Home',
+    'about' => 'About',
+    'vision' => 'Vision',
+    'duties' => 'Duties',
+    'laws' => 'Laws',
+    'authorities' => 'Authorities',
+    'foodDept' => 'Food Department',
+    'services' => 'Services',
+    'complaintRegistration' => 'Complaint Registration',
+    'publications' => 'Publications',
+    'drugDept' => 'Drug Department',
+    'labDept' => 'Lab Department',
+    'intro' => 'Introduction',
+    'history' => 'History',
+    'objectives' => 'Objectives',
+    'structure' => 'Structure',
+    'vigilanceDept' => 'Vigilance Department',
+    'compostition' => 'Composition',
+    'contacts' => 'Contacts',
+    'rti' => 'RTI',
+    'seniorityList' => 'Seniority List',
+    'contact' => 'Contact',
+    'toggleLang' => 'Marathi',
+];
