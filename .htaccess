@@ -1,0 +1,20 @@
+#Redirection code starts
+    Options -Indexes
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    #Redirection code Ends
+    
+Header set Strict-Transport-Security "max-age=10886400; includeSubDomains; preload"
+<IfModule mod_headers.c>
+	Header set X-XSS-Protection "1"
+	Header always append X-Frame-Options SAMEORIGIN
+	Header set X-Content-Type-Options nosniff
+	#ServerSignature Off
+    #ServerTokens Prod
+</IfModule>
+<IfModule mod_headers.c>
+	Header set Content-Security-Policy "default-src https:; font-src https: data:; img-src https: data:; script-src https: 'self' 'unsafe-inline'; style-src https: 'self' 'unsafe-inline';"
+</IfModule>
+#expose_php = Off
