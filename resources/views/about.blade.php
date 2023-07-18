@@ -10,7 +10,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <center><h4 class="underline-small">{{__('about.about')}}</h4></center>
+                            <center><h4 class="underline-small">{{__('about.title')}}</h4></center>
                             <p class="description pt-3" align="justify" >
                             @php
                                 $string = __('about.description');

@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'department_duties' => 'VIGILANCE DEPARTMENT DUTIES',
+    'title' => 'VIGILANCE DEPARTMENT DUTIES',
     'duties' => [
         'Investigate and act on accusations about illegal food and drug trades',
         'Administration corruption, eradication of malpractices',

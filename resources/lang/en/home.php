@@ -14,7 +14,7 @@ return [
     ],
 
     'banner' => [
-        'Slice19.png', 'asdfasd.png', 'Frame15.png', 'Frame16.png'
+        'Slice19.png', 'asdfasd.png', 'Frame15.png', 'Frame 16.png'
     ],
     'keyPersons' => [
         [

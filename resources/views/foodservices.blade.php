@@ -5,7 +5,7 @@
     <section id="middle-content" class="middle-content">
         <div class="container-fluid con-fluid1" data-aos="fade-up">
             <center>
-                <h2 class="underline-small pt-4">{{ __('foodServices.SERVICES') }}</h2>
+                <h2 class="underline-small pt-4">{{ __('foodServices.title') }}</h2>
             </center>
             <div class="row no-gutters card-shadow pr-3" data-aos="fade-up" data-aos-delay="100">
                 <div class="container">

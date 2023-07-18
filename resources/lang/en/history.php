@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'history' => 'History',
+    'title' => 'History',
     'details' => [
         'Till late 1960s work of testing of drugs & cosmetics as per Drugs & Cosmetics Act was carried out in Haffkine Institute, Parel, Mumbai',
         'In August 1968 independent Drug Control Laboratory, Mumbai was set up in St. George Hospital, Mumbai',

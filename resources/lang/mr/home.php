@@ -13,7 +13,7 @@ return [
         'circulars' =>'परिपत्रके आणि सूचना',
     ],
     'banner' => [
-        'Slice 19.png', 'asdfasd.png', 'Frame 15.png', 'Frame 16.png'
+        'Slice19.png', 'asdfasd.png', 'Frame15.png', 'Frame 16.png'
     ],
     'keyPersons' => [
         [

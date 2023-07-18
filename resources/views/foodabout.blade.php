@@ -7,7 +7,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <center><h4 class="underline-small">{{ __('foodAbout.about') }}</h4></center>
+                            <center><h4 class="underline-small">{{ __('foodAbout.title') }}</h4></center>
                             <!--<hr>-->
                             <p class="description pt-3" align="justify" >
                             {{ __('foodAbout.desc') }}
